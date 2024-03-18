@@ -1,0 +1,179 @@
+.body-conf{
+    margin-right: 12%;
+    margin-left: 12%;
+    margin-top: 5%;
+   
+}
+body{
+    background: rgb(116,14,11);
+background: linear-gradient(145deg, rgba(116,14,11,1) 0%, rgba(108,34,23,1) 4%, rgba(107,62,39,1) 9%, rgba(90,28,8,1) 14%, rgba(33,13,15,1) 19%, rgba(10,6,16,1) 28%);
+}
+
+.p-desi{
+    text-align: justify;
+    color: #CB5D2E;
+    cursor: default;
+}
+.h2-desi{
+    text-align: justify;
+    color: #CB5D2E;
+    cursor: default;
+    font-size: 2.5ch;
+    
+}
+.h1-desi{
+    color: rgb(255, 255, 255);
+    cursor: default;
+    font-size:5ch;
+    
+   
+}
+.btn-desi{
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background-color: #D93600;
+    transition: transform 0.25s ease-in-out;
+}
+
+.btn-desi:hover{
+    background-color: #EE0D0C;
+    transform: translateY(-5px);
+    box-shadow: 0 6px 8px rgb(67, 30, 47, 0.6);
+}
+.iframe-desi{
+    width: 100%;
+    height:50vh;
+}
+
+.cont-2{
+    margin-top: 4%;
+    cursor: default;
+}
+.p-3{
+    text-align: justify;
+    cursor: default;
+    color: #CB5D2E;
+}
+
+.cont-3{
+    margin-top: 15%;
+    cursor: default;
+}
+
+.list-desi{
+    display: flex;
+    list-style: none;
+    margin-left: 85%;
+    
+}
+
+.list-desi li{
+   
+    color: rgb(255, 255, 255);
+}
+
+
+.logoo{
+    cursor: pointer;
+    width: 30%;
+}
+
+.sand-desi{
+   padding-inline-start: 60%;
+}
+
+.sand-desi:hover{
+    cursor: pointer;
+}
+
+.p-desi2{
+    color: rgb(202, 23, 13);
+}
+
+.h3-desi2{
+    color: rgb(255, 255, 255)
+
+}
+
+.chec{
+    margin: 3%;
+    
+}
+
+
+.coorP{
+    background-color: rgb(24, 22, 40);
+    border-radius: 5%;
+   
+    
+}
+
+
+.circlee {
+    width: 75px; 
+    height: 75px; 
+    background-color: #2B2B2B; 
+    border-radius: 50%; 
+    margin-left: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+
+
+  .circlee span {
+    font-size: 35px;
+    
+  }
+
+  .h3-desi6{
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+  }
+
+  .p-desi4{
+    margin-left: 5%;
+    color: #F09659;
+  }
+
+  .nav-conf ul li a.selected {
+    text-decoration: underline;
+    color: #CB5D2E;
+    cursor: pointer;
+    
+    transition: text-shadow 0.3s ease;
+  }
+  .nav-conf ul li a.selected:hover {
+   
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.2);
+  }
+  .nav-conf ul li a{
+    color: beige;
+  }
+
+  .nav-conf ul li a:hover{
+    color: #CB5D2E;
+    cursor: pointer;
+  }
+
+  .navbar-collapse.show .navbar-nav .nav-link {
+ 
+    margin-right: 15px; 
+   
+   
+    
+}
+
+.navbar-collapse.show .navbar-nav  {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: #2E2F31;
+
+}
+
+.navbar-nav .nav-link{
+     width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+   
+}
